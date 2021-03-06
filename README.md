@@ -1,6 +1,6 @@
 ### Rafael Ribeiro - [Estudante de Análise e Desenvolvimneto de Sistemas] 👋
 
-### Sou um fã de programação, atualmente trabalho como professor de Matemática, mas não vejo a hora de poder mergulhar profissionalmente nessa área!
+#### Sou um fã de programação, atualmente trabalho como professor de Matemática, mas não vejo a hora de poder mergulhar profissionalmente nessa área!
 
 - 💻 Atualmente curso ADS na UNIFAA em Valença-RJ
 - 💻 Estou estudando atualmente a linguagem Python e C#. 
