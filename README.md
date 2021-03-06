@@ -18,4 +18,8 @@
  * <https://github.com/ror74559/Desafio-Keycash>
  ##### Deploy do Modelo
  * <https://preco-imovel.herokuapp.com/>
+ ### Contato
+ * Email: <ror74559@gmail.com>
+ * Kaggle: <https://www.kaggle.com/rafael74559>
+ * Medium: <https://rafael-ribeiro.medium.com/>
 
