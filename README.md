@@ -17,5 +17,5 @@
  ##### Estudo para determinar o modelo de precificação
  *<https://github.com/ror74559/Desafio-Keycash>
  ##### Deploy do Modelo
- * <https://preco-imovel.herokuapp.com/>
+ *<https://preco-imovel.herokuapp.com/>
 
